@@ -1,8 +1,8 @@
 .page {
   max-width: 1280px;
   align-self: center;
-  color: #fff;
+  color: black;
   margin: 0 auto;
-
+  padding-top: 51px;
   font-family: 'Inter', Arial, sans-serif;
 }

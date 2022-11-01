@@ -1,0 +1,10 @@
+.lead {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+  "caption caption image"
+  "title title image"
+  "title title image";
+  width: calc(100% - 96px);
+}
