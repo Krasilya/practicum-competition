@@ -1,0 +1,11 @@
+.table__cell {
+  list-style: none;
+  margin: 0 70px 0 0;
+  padding: 0;
+
+  width: 228px;
+}
+
+.table__cell:last-of-type {
+  margin-right: 0px;
+}
