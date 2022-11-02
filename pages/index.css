@@ -22,3 +22,12 @@
 @import url(../blocks/place/__info-description/_forest/place__info-description_forest.css);
 @import url(../blocks/place/__info-description/_mountains/place__info-description_mountains.css);
 @import url(../blocks/place/__info-description/_sea/place__info-description_sea.css);
+
+@import url(../blocks/quotes/quotes.css);
+@import url(../blocks/quotes/__caption/quotes__caption.css);
+@import url(../blocks/quotes/__title/quotes__title.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__quote/table__quote.css);
+

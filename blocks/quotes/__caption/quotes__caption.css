@@ -1,0 +1,13 @@
+.quotes__caption {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  letter-spacing: -1px;
+  color: #FECDA7;
+
+  margin: 0 0 0 68px;
+  padding: 0;
+  padding-top: 135px;
+}
