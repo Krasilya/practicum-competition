@@ -1,4 +1,5 @@
 .lead {
+  font-family: 'Inter', Arial, sans-serif;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
@@ -7,4 +8,7 @@
   "title title image"
   "title title image";
   width: calc(100% - 96px);
+  /* margin: 0 auto; */
+  max-width: 1054px;
+  padding-left: 68px;
 }
