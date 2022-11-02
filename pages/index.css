@@ -2,3 +2,13 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__info/places__info.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/-img/place-img.css);
+@import url(../blocks/place/__info/place__info.css);
+@import url(../blocks/place/__info-title/place__info-title.css);
+@import url(../blocks/place/__info-description/place__info-description.css);
+@import url(../blocks/place/__info-description/_forest/place__info-description_forest.css);
+@import url(../blocks/place/__info-description/_mountains/place__info-description_mountains.css);
+@import url(../blocks/place/__info-description/_sea/place__info-description_sea.css);
