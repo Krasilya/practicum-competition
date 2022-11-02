@@ -1,4 +1,4 @@
 .lead__title {
   grid-area: title;
-  
+  max-width: 510px;
 }
