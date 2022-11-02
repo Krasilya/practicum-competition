@@ -1,4 +1,10 @@
 .lead__caption {
   grid-area: caption;
-  
+  color: #FECDA7;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 11px;
+  align-self: end;
+  word-spacing: 3px;
+  margin: 0 0 -8px 12px;
 }
