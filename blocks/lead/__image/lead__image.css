@@ -1,6 +1,7 @@
 .lead__image {
   grid-area: image;
-  max-width: 353px;
-  max-height: 353px;
+  max-width: 355px;
+  max-height: 355px;
+  object-fit: cover;
   aspect-ratio: 1 / 1;
 }
