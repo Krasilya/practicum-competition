@@ -1,6 +1,7 @@
 .place-img {
-  width: 640px;
+  /* width: 50vw; */
   height: 534px;
+  width: 50%;
 
   object-fit: cover;
 

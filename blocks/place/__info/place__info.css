@@ -1,5 +1,6 @@
 .place__info {
-  width: calc(1280px - 640px);
+  /* width: 50vw; */
+  width: 50%;
 }
 
 
