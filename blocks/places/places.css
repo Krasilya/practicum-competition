@@ -2,3 +2,9 @@
   margin: 0 auto;
   padding-top: 133px;
 }
+
+@media screen and (max-width: 440px) {
+  .places {
+    padding-top: 36px;
+  }
+}
