@@ -34,3 +34,8 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/_hidden/popup_hidden.css);
+@import url(../blocks/popup/__complain/popup__complain.css);
+@import url(../blocks/popup/__escape-button/popup__escape-button.css);
+@import url(../blocks/popup/__title/popup__title.css);

@@ -1,0 +1,12 @@
+.popup__complain {
+  background-color: #FFF;
+  border-radius: 10px;
+
+  position: relative;
+
+  max-width: 650px;
+  height: 530px;
+
+  margin: 195px auto 0 auto;
+
+}

@@ -1,0 +1,17 @@
+.popup__escape-button {
+  width: 32px;
+  height: 32px;
+
+  background-color: rgba(0, 0, 0, .1);
+  background-color: rgba(0, 0, 0, .0001);
+  background-image: url("../../../images/close.png");
+  background-position: center;
+  background-size: 32px 32px;
+  background-repeat: no-repeat;
+  border: none;
+
+  position: absolute;
+
+  top: -35px;
+  right: -35px;
+}
