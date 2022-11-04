@@ -1,4 +1,4 @@
-/* .header {
+.header__nav-wrapper {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -11,8 +11,14 @@
 }
 
 @media screen and (max-width: 870px) {
-  .header {
+  .header__nav-wrapper {
     width: calc(100% - 70px);
   }
-} */
+}
 
+@media screen and (max-width: 460px) {
+  .header__nav-wrapper {
+    transform: translateX(-150%);
+    height: 0px;
+  }
+}

@@ -1,12 +1,12 @@
 .header__links {
   display: flex;
   gap: 35px;
+  list-style: none;
 }
 
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 460px) {
   .header__links {
     flex-direction: column;
-    gap: 15px;
   }
 }

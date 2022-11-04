@@ -1,0 +1,5 @@
+.header__nav-wrapper_place_mobile-menu_active {
+  position: relative;
+  height: 100vh;
+  transform: translateX(0%);
+}

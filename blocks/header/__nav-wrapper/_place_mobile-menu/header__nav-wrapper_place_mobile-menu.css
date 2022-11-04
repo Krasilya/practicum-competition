@@ -1,0 +1,4 @@
+.header__nav-wrapper_place_mobile-menu {
+  height: 0px;
+  transform: translateX(-150%);
+}
