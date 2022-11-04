@@ -15,3 +15,15 @@
   top: -35px;
   right: -35px;
 }
+
+@media screen and (max-width: 500px) {
+  .popup__escape-button{
+    background-image: url("../../../images/close-black.svg");
+    top: 15px;
+    right: 15px;
+
+    background-size: 24px 24px;
+    width: 24px;
+    height: 24px;
+  }
+}

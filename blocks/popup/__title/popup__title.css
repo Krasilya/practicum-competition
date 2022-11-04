@@ -13,5 +13,19 @@
 
   position: absolute;
   top: 246.5px;
-  left: 204px;
+  left: 25%;
+
+  width: 50%;
+}
+
+@media screen and (max-width: 725px) {
+  .popup__title{
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 367px) {
+  .popup__title{
+    font-size: 20px;
+  }
 }

@@ -33,3 +33,10 @@
     padding-bottom: 64px;
   }
 }
+
+@media screen and (max-width: 380px) {
+  .place__info-description {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+}
