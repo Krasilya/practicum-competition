@@ -8,3 +8,34 @@
   margin-top: 38px; */
   margin: 38px 0 0 0;
 }
+
+@media screen and (max-width: 968px) {
+  .lead__title {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .lead__title {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    position: absolute;
+    top: 40%;
+    /* right: 50%; */
+    max-width: 100%;
+    margin: 0 40px;
+    text-align: center;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .lead__title {
+    font-size: 22px;
+    top: 25%
+  }
+}

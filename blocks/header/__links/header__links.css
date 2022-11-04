@@ -2,3 +2,11 @@
   display: flex;
   gap: 35px;
 }
+
+
+@media screen and (max-width: 450px) {
+  .header__links {
+    flex-direction: column;
+    gap: 15px;
+  }
+}

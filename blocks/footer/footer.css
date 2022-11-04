@@ -8,3 +8,16 @@
   color: black;
   background-color: #FECDA7;
 }
+
+
+@media screen and (max-width: 870px) {
+  .footer {
+    min-height: 350px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .footer {
+    min-height: 240px;
+  }
+}
