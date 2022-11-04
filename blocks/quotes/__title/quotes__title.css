@@ -21,7 +21,7 @@ letter-spacing: 0.80px;
 
 @media screen and (max-width: 400px) {
   .quotes__title {
-    font-size: 22px;
+    font-size: 20px;
     margin: 32px 68px 0 68px;
   }
 }

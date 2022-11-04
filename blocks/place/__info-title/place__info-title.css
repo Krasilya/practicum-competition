@@ -28,12 +28,12 @@
   }
 }
 
- /* @media screen and (max-width: 984px) {
+@media screen and (max-width: 440px) {
   .place__info-title {
-
+    margin: 32px auto 0 auto;
   }
 }
-
+/*
  @media screen and (max-width: 568px) {
   .place__info-title {
 

@@ -13,3 +13,10 @@
   padding-top: 138px;
 }
 
+@media screen and (max-width: 440px) {
+  .quotes__caption {
+    padding-top: 32px;
+    margin: 0 0 0 32px;
+  }
+}
+
