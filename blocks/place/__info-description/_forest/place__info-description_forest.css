@@ -1,3 +1,15 @@
 .place__info-description_forest {
   margin-top: 186px;
 }
+
+@media screen and (max-width: 680px) {
+  .place__info-description_forest {
+    margin-top: 170px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .place__info-description_forest {
+    margin-top: 80px;
+  }
+}

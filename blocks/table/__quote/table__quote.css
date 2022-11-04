@@ -8,3 +8,22 @@ font-size: 12px;
 letter-spacing: 0.56px;
 line-height: 20px;
 }
+
+
+@media screen and (max-width: 1124px) {
+  .table__quote {
+    font-size: 10px;
+  }
+}
+
+ @media screen and (max-width: 968px) {
+  .table__quote {
+    
+  }
+}
+
+ @media screen and (max-width: 568px) {
+  .table__quote {
+
+  }
+}

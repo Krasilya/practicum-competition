@@ -6,3 +6,8 @@
   object-fit: cover;
 
 }
+@media screen and (max-width: 600px) {
+  .place-img {
+    width: 100%;
+  }
+}

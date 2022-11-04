@@ -1,8 +1,17 @@
 .table {
-  margin: 107px 0 0 68px;
+  margin: 107px 68px 0 68px;
 
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 
   padding: 0;
+
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 400px) {
+  .table {
+    margin-top: 50px;
+  }
 }

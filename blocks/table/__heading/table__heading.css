@@ -8,3 +8,9 @@ letter-spacing: -0.60px;
 
 text-transform: uppercase;
 }
+
+@media screen and (max-width: 968px) {
+  .table__heading {
+    font-size: 10px;
+  }
+}

@@ -1,9 +1,4 @@
 .place {
-  /* display: grid; */
-
-  /* width: 1280px; */
-
-  /* grid-template-columns: repeat(2, 1fr); */
   color: black;
 
   background-color: #F2F2F2;
@@ -12,6 +7,15 @@
 }
 
 .place:nth-child(2) {
-  /* display: flex;  */
   flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 600px) {
+  .place{
+    flex-direction: column;
+  }
+
+  .place:nth-child(2) {
+    flex-direction: column;
+  }
 }

@@ -4,3 +4,8 @@
 }
 
 
+@media screen and (max-width: 600px) {
+  .place__info {
+    width: 100%;
+  }
+}

@@ -1,4 +1,10 @@
 .place__info-description_mountains {
   margin-top: 227px;
-  width: 380px;
+  max-width: 380px;
+}
+
+@media screen and (max-width: 600px) {
+  .place__info-description_mountains {
+    margin-top: 80px;
+  }
 }

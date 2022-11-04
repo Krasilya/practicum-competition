@@ -6,10 +6,30 @@
   letter-spacing: 0.56px;
   line-height: 167.8%;
 
-  margin: 22px 0 0 70px;
+  margin: 22px 70px 0 70px;
   padding: 0;
 
-  width: 370px;
+  max-width: 370px;
 }
 
+@media screen and (max-width: 968px) {
+  .place__info-description {
+    font-size: 11px;
+  }
 
+}
+
+@media screen and (max-width: 870px) {
+  .place__info-description {
+    margin-left: 40px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .place__info-description {
+    margin: 22px auto 0 auto;
+  }
+  .place__info-description:last-of-type {
+    padding-bottom: 64px;
+  }
+}
