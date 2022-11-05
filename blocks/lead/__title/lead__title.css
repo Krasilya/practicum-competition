@@ -4,8 +4,6 @@
   font-size: 30px;
   line-height: 1.4;
   letter-spacing: 1.4px;
-  /* margin-left: 12px;
-  margin-top: 38px; */
   margin: 38px 0 0 0;
 }
 
@@ -25,7 +23,6 @@
   .lead__title {
     position: absolute;
     top: 40%;
-    /* right: 50%; */
     max-width: 100%;
     margin: 0 40px;
     text-align: center;
