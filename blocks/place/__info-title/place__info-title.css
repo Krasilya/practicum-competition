@@ -1,6 +1,5 @@
 .place__info-title {
   margin: 64px 0 0 72px;
-
   font-family: 'Inter';
   font-weight: 700;
   font-size: 32px;
@@ -33,9 +32,3 @@
     margin: 32px auto 0 auto;
   }
 }
-/*
- @media screen and (max-width: 568px) {
-  .place__info-title {
-
-  }
-} */

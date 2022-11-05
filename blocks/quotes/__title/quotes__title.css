@@ -1,15 +1,11 @@
 .quotes__title {
   max-width: 400px;
-
   margin: 32px 0 0 68px;
-
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
   line-height: 41px;
-
-
   letter-spacing: 0.80px;
 }
 

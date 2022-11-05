@@ -1,12 +1,9 @@
 .table {
   margin: 107px 68px 0 68px;
-
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-
   padding: 0;
-
   flex-wrap: wrap;
 }
 

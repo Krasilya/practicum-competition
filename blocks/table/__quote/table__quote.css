@@ -1,7 +1,6 @@
 .table__quote {
   padding: 0;
   margin: 26px 0 0 0;
-
   font-family: 'Inter';
   font-weight: 500;
   font-size: 12px;
@@ -15,11 +14,11 @@
     font-size: 10px;
   }
 }
-
+/* 
 @media screen and (max-width: 968px) {
   .table__quote {}
 }
 
 @media screen and (max-width: 568px) {
   .table__quote {}
-}
+} */

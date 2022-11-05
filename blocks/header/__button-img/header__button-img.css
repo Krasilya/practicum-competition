@@ -2,11 +2,8 @@
   .header__button-img span {
     width: 30px;
     height: 2px;
-
     position: absolute;
-
     background-color: black;
-
     top: 40px;
     right: 25px;
   }
