@@ -1,18 +1,8 @@
 @media screen and (max-width: 460px) {
-  .header__button-img {
-    background-color: rgba(0, 0, 0, .1);
-    background-color: rgba(0, 0, 0, .0001);
-    background-image: url("../../../images/hamburger-menu-svgrepo-com.svg");
-    background-position: center;
-    background-size: 32px 32px;
-    background-repeat: no-repeat;
-    border: none;
+  .header__button-img span {
+    width: 30px;
+    height: 2px;
+    position: absolute;
 
-    width: 32px;
-    height: 32px;
-
-    margin: 0 32px 24px 0;
-
-    transition: all .5s;
   }
 }
