@@ -16,17 +16,17 @@ function menuOpen() {
   Menu.classList.toggle('header__nav-wrapper_place_mobile-menu_active')
   if (Body.style.position == 'fixed') {
     Body.style.position = '';
-    console.log('разблок');
   } else {
     Body.style.position = 'fixed';
-    console.log('блок')
   }
 };
 
 function popupOpen() {
   popUp.classList.remove('popup_hidden');
-};
-
+  if (OpenMenu.classList.contains("header__button-img_close") != true) {
+    Body.style.position = 'fixed';
+  }
+}
 function popupClose() {
   popUp.classList.add('popup_hidden');
   console.log('Ээээ')
