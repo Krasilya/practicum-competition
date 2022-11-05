@@ -1,4 +1,4 @@
-.place-img {
+.place__img {
   /* width: 50vw; */
   height: 534px;
   width: 50%;
@@ -7,7 +7,7 @@
 
 }
 @media screen and (max-width: 600px) {
-  .place-img {
+  .place__img {
     width: 100%;
   }
 }
