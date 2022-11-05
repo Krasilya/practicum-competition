@@ -1,3 +1,19 @@
 .header__button-img_close {
 
 }
+
+@media screen and (max-width: 460px) {
+  .header__button-img_close span:first-child {
+    opacity: 0;
+  }
+
+  .header__button-img_close span:nth-child(2) {
+    top: calc(50px - 10px);
+    transform: rotate(45deg);
+  }
+
+  .header__button-img_close span:nth-child(3) {
+    top: calc(50px - 10px);
+    transform: rotate(-45deg);
+  }
+}
