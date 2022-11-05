@@ -21,7 +21,7 @@
 * Grid Layout;
 * Продвинутой семантики языка HTML
 
-Ссылка на проект: [проект: Куда я поеду ](https://krasilya.github.io/practicum-competition/)
+Ссылка на проект: [куда я поеду ](https://krasilya.github.io/practicum-competition/)
 
 **Над проектом работали**
 * [Мария Погонина](https://github.com/alsails)
