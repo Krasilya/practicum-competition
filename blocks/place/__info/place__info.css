@@ -1,8 +1,6 @@
 .place__info {
-  /* width: 50vw; */
   width: 50%;
 }
-
 
 @media screen and (max-width: 600px) {
   .place__info {

@@ -1,14 +1,11 @@
 .place__info-description {
   font-family: 'Inter';
-
   font-weight: 500;
   font-size: 12px;
   letter-spacing: 0.56px;
   line-height: 167.8%;
-
   margin: 22px 70px 0 70px;
   padding: 0;
-
   max-width: 370px;
 }
 
@@ -16,7 +13,6 @@
   .place__info-description {
     font-size: 11px;
   }
-
 }
 
 @media screen and (max-width: 870px) {
@@ -38,5 +34,5 @@
   .place__info-description {
     margin-left: 30px;
     margin-right: 30px;
-}
+  }
 }

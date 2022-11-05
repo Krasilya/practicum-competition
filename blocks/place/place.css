@@ -1,9 +1,7 @@
 .place {
   color: black;
-
   background-color: #F2F2F2;
   display: flex;
-
 }
 
 .place:nth-child(2) {
